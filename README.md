@@ -1,7 +1,6 @@
 # plantilla-visor-react
 
-Plantilla que servirá de base para un visor sencillo, para usarlo entra en https://github.com/geomatico/plantilla-visor-react y haz click en 'Use this template', se creará un repositorio que partirá con el contenido de la plantilla.
-Si quieres añadir funcionalidades, puedes ver un catálogo aquí: https://labs.geomatico.es/geocomponents/
+Plantilla para un proyecto con React, MUI y storybook
 ---
 Asegurate de actualizar el nombre del proyecto en los siguientes archivos:
 * package.json:
